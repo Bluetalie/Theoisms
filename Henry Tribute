@@ -1,0 +1,20 @@
+echo "# Theoisms" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Bluetalie/Theoisms.git
+git push -u origin master
+
+<style>
+h1 {
+Font-Size: 30px;
+Font-Family: Helvetica Arial;
+} 
+h2 {
+Font-size: 25px; 
+Font-Family: Helvetica Arial;
+}
+p {
+Font-size: 20px;
+Font-Family: Helvetica Arial;JKJKLKM
+}xvc
